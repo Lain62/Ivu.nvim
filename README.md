@@ -25,3 +25,4 @@ Oxocarbon
 - toggleterm
 - eyeliner
 - coc
+- transparency

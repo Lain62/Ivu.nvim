@@ -8,6 +8,7 @@ return {
 	{'akinsho/toggleterm.nvim', version = "*", config = true},
 	'jinh0/eyeliner.nvim',
 	{'neoclide/coc.nvim', branch= 'release'},
-	'nyoom-engineering/oxocarbon.nvim'
+	'nyoom-engineering/oxocarbon.nvim',
+	'xiyaowong/transparent.nvim'
 }
 
