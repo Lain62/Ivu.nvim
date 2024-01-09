@@ -6,6 +6,7 @@ return {
 	{"nvim-treesitter/nvim-treesitter", build = ":TSUpdate" },
 	{"ThePrimeagen/harpoon", branch = "harpoon2" },
 	'stevearc/oil.nvim',
-	"rafamadriz/neon"
+	"rafamadriz/neon",
+	{'akinsho/toggleterm.nvim', version = "*", config = true}
 }
 
