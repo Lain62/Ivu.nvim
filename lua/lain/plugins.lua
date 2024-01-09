@@ -9,5 +9,6 @@ return {
 	"rafamadriz/neon",
 	{'akinsho/toggleterm.nvim', version = "*", config = true},
 	'jinh0/eyeliner.nvim',
+	{'neoclide/coc.nvim', branch= 'release'},
 }
 
