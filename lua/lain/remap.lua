@@ -1,5 +1,5 @@
 vim.g.mapleader = " "
-vim.keymap.set ("n", "<leader>pv", vim.cmd.Ex) --open up explorer
+vim.keymap.set ("n", "<leader>pv", "<CMD>Oil<CR>") --open up explorer
 
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv") --move lines code
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")

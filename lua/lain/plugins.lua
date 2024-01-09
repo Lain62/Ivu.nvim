@@ -6,5 +6,6 @@ return {
 	{"nvim-treesitter/nvim-treesitter", build = ":TSUpdate" },
 	{"ThePrimeagen/harpoon", branch = "harpoon2" },
 	{ "bluz71/vim-moonfly-colors", name = "moonfly", lazy = false, priority = 1000 },
+	'stevearc/oil.nvim',
 }
 
