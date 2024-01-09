@@ -8,6 +8,6 @@ return {
 	'stevearc/oil.nvim',
 	"rafamadriz/neon",
 	{'akinsho/toggleterm.nvim', version = "*", config = true},
-	'jinh0/eyeliner.nvim'
+	'jinh0/eyeliner.nvim',
 }
 
