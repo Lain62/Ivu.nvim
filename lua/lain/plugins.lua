@@ -7,6 +7,7 @@ return {
 	{"ThePrimeagen/harpoon", branch = "harpoon2" },
 	'stevearc/oil.nvim',
 	"rafamadriz/neon",
-	{'akinsho/toggleterm.nvim', version = "*", config = true}
+	{'akinsho/toggleterm.nvim', version = "*", config = true},
+	'jinh0/eyeliner.nvim'
 }
 
