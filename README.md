@@ -1,3 +1,5 @@
+![Screenshot](pictures/Screenshot.png)
+
 # Ivu.nvim
 This is a minimalistic config made to just get you into the zone of coding  
 
