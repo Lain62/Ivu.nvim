@@ -2,6 +2,15 @@
 
 # Ivu.nvim
 This is a minimalistic config made to just get you into the zone of coding  
+for Neovim 0.9.1+
+
+## Dependencies
+- nodejs
+- npm
+- A nerd font
+- git
+- lazygit
+- A C compiler in path
 
 ## Theme 
 Oxocarbon
