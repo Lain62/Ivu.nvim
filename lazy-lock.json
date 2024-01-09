@@ -2,7 +2,7 @@
   "dracula.nvim": { "branch": "main", "commit": "cadf9a1d873d67a92a76b258715cad91f0c1dbb9" },
   "harpoon": { "branch": "harpoon2", "commit": "31701337377991c66eebb57ebd23ef01eb587352" },
   "lazy.nvim": { "branch": "main", "commit": "96584866b9c5e998cbae300594d0ccfd0c464627" },
-  "moonfly": { "branch": "master", "commit": "fb27da9cf29c56e8031adc4df6674bac6373d7c3" },
+  "neon": { "branch": "main", "commit": "7765aaa7d1cd3804176140644640766e4411c766" },
   "nvim-treesitter": { "branch": "master", "commit": "454c3a9ba86f841dc3b5bb17d150a873a16b77b4" },
   "nvim-web-devicons": { "branch": "master", "commit": "aff5f50b34754335a312c9b3dc5b245f605ce437" },
   "oil.nvim": { "branch": "master", "commit": "c4cc8240f1c71defcb67c45da96e44b968d29e5f" },
