@@ -1,6 +1,6 @@
 <h1 align="center"> Ivu.nvim </h1>
 <p align="center"><img src="./pictures/Logo.png"></p>
-<h5 align="center"><sub>made with mspaint</sub></h5>
+<h5 align="center"><sub>made with mspaint :3</sub></h5>
 
 ---
 
