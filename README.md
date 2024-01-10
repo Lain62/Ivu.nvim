@@ -1,27 +1,28 @@
 <h1 align="center"> Ivu.nvim </h1>
-This is a personal minimalistic config made to just get you into the zone of coding  
-for Neovim 0.9.1+  
+<p align="center">This is a personal minimalistic config made to just get you into the zone of coding  
+for Neovim 0.9.1+ </p> 
 
 ---
 
-- Installation
-    - for linux/mac user  
+## **Installation**
+for linux/mac user  
 ```
 $ git clone https://github.com/Lain62/Ivu.nvim ~/.config/nvim --depth 1
 ```
-    - for windows user  
+   
+for windows user
 ```
 $ git clone https://github.com/Lain62/Ivu.nvim $HOME\AppData\Local\nvim --depth 1
 ```
-
-- Dependencies
-    - nodejs
-    - npm
-    - A nerd font
-    - git
-    - lazygit
-    - A C compiler in path
-
+---
+## Dependencies
+- nodejs
+- npm
+- A nerd font
+- git
+- lazygit
+- A C compiler in path
+---
 - Theme 
     - Oxocarbon
 
