@@ -1,2 +1,1 @@
-require("lain")
-print ("Welcome Lain")
+require("Ivu")
