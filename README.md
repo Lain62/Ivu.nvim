@@ -10,7 +10,6 @@ for Neovim 0.9.1+ </p>
 <ul>
   <li>File searching with telescope</li>
   <li>Convinient file exploring with Oil</li>
-  <li>Easy lsp installations with coc extensions</li>
   <li>Quick tab switching with harpoon</li>
   <li>Lazygit integration with ToggleTerm</li>
   <li>Quick line navigation with eyeliner</li>
@@ -18,7 +17,6 @@ for Neovim 0.9.1+ </p>
 </ul>
 
 ## **Dependencies**
-- [npm](https://nodejs.org/en)
 - [A nerd font](https://www.nerdfonts.com/)
 - [git](https://git-scm.com/)
 - [lazygit](https://github.com/jesseduffield/lazygit)
@@ -74,5 +72,4 @@ keybindings:
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) 
 - [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
-- [coc.nvim](https://github.com/neoclide/coc.nvim)
 - [transparency.nvim](https://github.com/xiyaowong/transparent.nvim)
