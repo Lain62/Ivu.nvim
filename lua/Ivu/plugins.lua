@@ -7,7 +7,7 @@ return {
   'stevearc/oil.nvim',
   {'akinsho/toggleterm.nvim', version = "*", config = true},
   'jinh0/eyeliner.nvim',
-  'nyoom-engineering/oxocarbon.nvim',
-  'xiyaowong/transparent.nvim'
+  'xiyaowong/transparent.nvim',
+  { "catppuccin/nvim", name = "catppuccin", priority = 1000 }
 }
 
