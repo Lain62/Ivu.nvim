@@ -8,6 +8,5 @@ return {
   {'akinsho/toggleterm.nvim', version = "*", config = true},
   'jinh0/eyeliner.nvim',
   'xiyaowong/transparent.nvim',
-  { "catppuccin/nvim", name = "catppuccin", priority = 1000 }
 }
 
