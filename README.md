@@ -20,7 +20,7 @@ for Neovim 0.9.1+ </p>
 - [A nerd font](https://www.nerdfonts.com/)
 - [git](https://git-scm.com/)
 - [lazygit](https://github.com/jesseduffield/lazygit)
-- A C compiler in path
+- [gcc](https://gcc.gnu.org/)
 
 
 ## **Installation**
