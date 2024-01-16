@@ -63,6 +63,7 @@ keybindings:
 
 ## **Plugins**
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
+- [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)

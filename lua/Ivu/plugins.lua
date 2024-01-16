@@ -8,5 +8,6 @@ return {
   {'akinsho/toggleterm.nvim', version = "*", config = true},
   'jinh0/eyeliner.nvim',
   'xiyaowong/transparent.nvim',
+  { "ellisonleao/gruvbox.nvim", priority = 1000 , config = true, opts = ...}
 }
 
