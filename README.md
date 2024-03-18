@@ -57,13 +57,11 @@ keybindings:
   <leader>2   = Harpoon tab 2
   <leader>3   = Harpoon tab 3
   <leader>4   = Harpoon tab 4
-     f        = Eyeliner forward
-     F        = Eyeliner backward
 ```
 
 ## **Plugins**
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
-- [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
+- [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
