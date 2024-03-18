@@ -9,5 +9,7 @@ return {
   'jinh0/eyeliner.nvim',
   'xiyaowong/transparent.nvim',
   { "bluz71/vim-moonfly-colors", name = "moonfly", lazy = false, priority = 1000 },
+  {'neoclide/coc.nvim', branch= 'release'}
+
 }
 
