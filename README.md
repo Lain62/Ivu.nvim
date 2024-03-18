@@ -14,6 +14,7 @@ for Neovim 0.9.1+ </p>
   <li>Lazygit integration with ToggleTerm</li>
   <li>Quick line navigation with eyeliner</li>
   <li>Transparent to use with terminal backgrounds</li>
+  <li>coc.Nvim for easy lsp</li>
 </ul>
 
 ## **Dependencies**
@@ -61,6 +62,7 @@ keybindings:
 
 ## **Plugins**
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
 - [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
