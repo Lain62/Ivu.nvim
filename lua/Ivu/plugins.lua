@@ -1,4 +1,4 @@
-return { 
+return {
   'nvim-lua/plenary.nvim',
   {'nvim-telescope/telescope.nvim', tag = '0.1.5',dependencies = { 'nvim-lua/plenary.nvim' }},
   'nvim-tree/nvim-web-devicons',
@@ -9,7 +9,8 @@ return {
   'jinh0/eyeliner.nvim',
   'xiyaowong/transparent.nvim',
   { "bluz71/vim-moonfly-colors", name = "moonfly", lazy = false, priority = 1000 },
-  {'neoclide/coc.nvim', branch= 'release'}
+  {'neoclide/coc.nvim', branch= 'release'},
+  { 'nvim-lualine/lualine.nvim', dependencies = { 'nvim-tree/nvim-web-devicons' }}
 
 }
 
