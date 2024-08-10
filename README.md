@@ -13,8 +13,6 @@ for Neovim 0.10+ </p>
   <li>Quick tab switching with harpoon</li>
   <li>Lazygit integration with ToggleTerm</li>
   <li>Quick line navigation with eyeliner</li>
-  <li>Transparent to use with terminal backgrounds</li>
-  <li>Pre configured lsp autocomplete</li>
 </ul>
 
 ## **Dependencies**
@@ -62,10 +60,6 @@ keybindings:
 
 ## **Plugins**
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-- [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-- [hrsh7th/cmp-vsnip](https://github.com/hrsh7th/cmp-vsnip)
 - [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
@@ -75,4 +69,3 @@ keybindings:
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) 
 - [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
-- [transparency.nvim](https://github.com/xiyaowong/transparent.nvim)
