@@ -4,6 +4,6 @@ vim.keymap.set('n', '<leader>pg', builtin.git_files, {})
 vim.keymap.set('n', '<leader>pb', builtin.buffers, {})
 vim.keymap.set('n', '<leader>pg', builtin.git_files, {})
 vim.keymap.set('n', '<leader>ps', function()
-  builtin.grep_string({ search = vim.fn.input ("Grep search > ")})end
-  )
-
+	builtin.grep_string({ search = vim.fn.input("Grep search > ") })
+end
+)
