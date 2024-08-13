@@ -56,6 +56,9 @@ keybindings:
   <leader>2   = Harpoon tab 2
   <leader>3   = Harpoon tab 3
   <leader>4   = Harpoon tab 4
+    <C-l>     = Next tab
+    <C-h>     = Prev tab
+    <C-t>     = Toggle terminal
 ```
 
 ## **Plugins**
@@ -69,3 +72,4 @@ keybindings:
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) 
 - [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
+- [nvim-tabline](https://github.com/crispgm/nvim-tabline)
