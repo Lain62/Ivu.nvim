@@ -15,10 +15,5 @@ return {
 	{ 'neovim/nvim-lspconfig' },
 	{ 'hrsh7th/cmp-nvim-lsp' },
 	{ 'hrsh7th/nvim-cmp' },
-	"williamboman/mason.nvim",
-	"williamboman/mason-lspconfig.nvim",
 	"stevearc/conform.nvim",
-	"zapling/mason-conform.nvim",
-	"mfussenegger/nvim-lint",
-	"rshkarin/mason-nvim-lint",
 }
