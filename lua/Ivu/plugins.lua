@@ -19,4 +19,6 @@ return {
 	"williamboman/mason-lspconfig.nvim",
 	"stevearc/conform.nvim",
 	"zapling/mason-conform.nvim",
+	"mfussenegger/nvim-lint",
+	"rshkarin/mason-nvim-lint",
 }
