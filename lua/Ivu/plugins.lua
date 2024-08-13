@@ -9,4 +9,5 @@ return {
   "jinh0/eyeliner.nvim",
   { "bluz71/vim-moonfly-colors", name = "moonfly", lazy = false, priority = 1000 },
   { "nvim-lualine/lualine.nvim", dependencies = { "nvim-tree/nvim-web-devicons" } },
+  { 'crispgm/nvim-tabline', dependencies = { 'nvim-tree/nvim-web-devicons' } }
 }
