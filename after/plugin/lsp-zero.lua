@@ -42,3 +42,9 @@ cmp.setup({
 		["<CR>"] = cmp.mapping.confirm({ select = true }),
 	}),
 })
+
+require("lspconfig").lua_ls.setup({})
+require("lspconfig").solargraph.setup({})
+require("lspconfig").ols.setup({})
+require("lspconfig").cssls.setup({})
+require("lspconfig").emmet_language_server.setup({})

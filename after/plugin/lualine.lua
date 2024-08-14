@@ -1,17 +1,17 @@
 local function name()
-  return [[Lain]]
+	return "lain"
 end
 
 require('lualine').setup {
-  options = {
-    theme = 'moonfly'
-  },
-    sections = {
-    lualine_a = {'mode'},
-    lualine_b = {'branch', 'diff', 'diagnostics'},
-    lualine_c = {'filename' },
-    lualine_x = {'encoding', name, 'filetype'},
-    lualine_y = {'progress'},
-    lualine_z = {'location'}
-  },
+	options = {
+		theme = 'moonfly'
+	},
+	sections = {
+		lualine_a = { 'mode' },
+		lualine_b = { 'branch' },
+		lualine_c = { "buffers" },
+		lualine_x = { 'diff', 'diagnostics', name },
+		lualine_y = { 'progress' },
+		lualine_z = { 'location' }
+	},
 }
