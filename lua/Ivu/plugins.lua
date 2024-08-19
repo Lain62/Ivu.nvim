@@ -15,4 +15,15 @@ return {
 	{ 'hrsh7th/cmp-nvim-lsp' },
 	{ 'hrsh7th/nvim-cmp' },
 	"stevearc/conform.nvim",
+	"m00qek/baleia.nvim",
+	{
+		"ej-shafran/compile-mode.nvim",
+		dependencies = { "nvim-lua/plenary.nvim", "m00qek/baleia.nvim" },
+		config = function()
+			vim.g.compile_mode = {
+				baleia_setup = true
+			}
+		end
+	},
+	{ "rachartier/tiny-inline-diagnostic.nvim" },
 }
