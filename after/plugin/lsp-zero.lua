@@ -43,13 +43,13 @@ cmp.setup({
 	}),
 })
 
-require("lspconfig").lua_ls.setup({})
-require("lspconfig").solargraph.setup({})
-require("lspconfig").ols.setup({})
-require("lspconfig").cssls.setup({})
-require("lspconfig").emmet_language_server.setup({})
-require("lspconfig").clangd.setup({})
-require("lspconfig").tsserver.setup({})
-require("lspconfig").rust_analyzer.setup({})
-require("lspconfig").csharp_ls.setup({})
-require 'lspconfig'.svelte.setup {}
+-- require("lspconfig").lua_ls.setup({})
+-- require("lspconfig").solargraph.setup({})
+-- require("lspconfig").ols.setup({})
+-- require("lspconfig").cssls.setup({})
+-- require("lspconfig").emmet_language_server.setup({})
+-- require("lspconfig").clangd.setup({})
+-- require("lspconfig").tsserver.setup({})
+-- require("lspconfig").rust_analyzer.setup({})
+-- require("lspconfig").csharp_ls.setup({})
+-- require 'lspconfig'.svelte.setup {}
