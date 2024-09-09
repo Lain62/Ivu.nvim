@@ -8,6 +8,6 @@ return {
     { "akinsho/toggleterm.nvim",   version = "*", config = true },
     "jinh0/eyeliner.nvim",
     { "nvim-lualine/lualine.nvim", dependencies = { "nvim-tree/nvim-web-devicons" } },
-    { "blazkowolf/gruber-darker.nvim" },
     {'nacro90/numb.nvim'},
+    "nyoom-engineering/oxocarbon.nvim"
 }

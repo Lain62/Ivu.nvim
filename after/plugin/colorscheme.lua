@@ -1,1 +1,2 @@
-vim.cmd([[colorscheme gruber-darker]])
+vim.opt.background = "dark"
+vim.cmd([[colorscheme oxocarbon]])
