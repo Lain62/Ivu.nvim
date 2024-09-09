@@ -19,6 +19,7 @@ for Neovim 0.10+ </p>
 - [git](https://git-scm.com/)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [gcc](https://gcc.gnu.org/)
+- [grep]()
 
 
 ## **Installation**
@@ -50,14 +51,16 @@ keybindings:
   <leader>g   = Open Lazygit
   <leader>pf  = Open find telescope
   <leader>pg  = Open find git telescope
+  <leader>pb  = Open find buffer telescope
+  <leader>ps  = Open grep telescope
     <C-n>     = Open harpoon file manager
   <leader>1   = Harpoon tab 1
   <leader>2   = Harpoon tab 2
   <leader>3   = Harpoon tab 3
   <leader>4   = Harpoon tab 4
-    <C-l>     = Next tab
-    <C-h>     = Prev tab
     <C-t>     = Toggle terminal
+  <leader>bd  = Delete buffer
+  <leader>bf  = Find buffer
 ```
 
 ## **Plugins**
@@ -70,3 +73,4 @@ keybindings:
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
+- [numb.nvim](https://github.com/nacro90/numb.nvim)
