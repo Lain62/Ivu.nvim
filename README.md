@@ -65,7 +65,7 @@ keybindings:
 
 ## **Plugins**
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
-- [gruber-darker.nvim](https://github.com/blazkowolf/gruber-darker.nvim)
+- [oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
