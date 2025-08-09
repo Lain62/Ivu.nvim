@@ -74,3 +74,4 @@ keybindings:
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
 - [numb.nvim](https://github.com/nacro90/numb.nvim)
+- [vim-visual-multi](https://github.com/mg979/vim-visual-multi)

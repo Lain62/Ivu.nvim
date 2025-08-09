@@ -9,5 +9,6 @@ return {
     "jinh0/eyeliner.nvim",
     { "nvim-lualine/lualine.nvim", dependencies = { "nvim-tree/nvim-web-devicons" } },
     {'nacro90/numb.nvim'},
-    "nyoom-engineering/oxocarbon.nvim"
+    "nyoom-engineering/oxocarbon.nvim",
+    "mg979/vim-visual-multi"
 }
