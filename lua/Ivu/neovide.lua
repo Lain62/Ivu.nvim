@@ -1,6 +1,6 @@
 if vim.g.neovide then
     vim.g.gui_font_size = 16
-    vim.g.gui_font_face = "FiraMono Nerd Font Mono"
+    vim.g.gui_font_face = "ZedMono Nerd Font Mono"
 
     function GUIRefreshFont()
 	vim.opt.guifont = string.format("%s:h%s", vim.g.gui_font_face, vim.g.gui_font_size)

@@ -53,14 +53,12 @@ keybindings:
   <leader>pg  = Open find git telescope
   <leader>pb  = Open find buffer telescope
   <leader>ps  = Open grep telescope
-    <C-n>     = Open harpoon file manager
+  <leader>h   = Open harpoon file manager
   <leader>1   = Harpoon tab 1
   <leader>2   = Harpoon tab 2
   <leader>3   = Harpoon tab 3
   <leader>4   = Harpoon tab 4
     <C-t>     = Toggle terminal
-  <leader>bd  = Delete buffer
-  <leader>bf  = Find buffer
 ```
 
 ## **Plugins**
