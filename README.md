@@ -63,11 +63,9 @@ keybindings:
 
 ## **Plugins**
 - [Lazy.nvim](https://github.com/folke/lazy.nvim)
-- [oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
-- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [oil.nvim](https://github.com/stevearc/oil.nvim)
 - [eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
